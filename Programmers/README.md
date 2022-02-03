@@ -11,3 +11,7 @@
 ### [SUM, MAX, MIN](https://github.com/lDooh/Coding-Test-Study/tree/main/Programmers/SQL%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/SUM%2C%20MAX%2C%20MIN)
 
 ### [GROUP BY](https://github.com/lDooh/Coding-Test-Study/tree/main/Programmers/SQL%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/GROUP%20BY)
+
+### [IS NULL](https://github.com/lDooh/Coding-Test-Study/tree/main/Programmers/SQL%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/IS%20NULL)
+
+### [JOIN](https://github.com/lDooh/Coding-Test-Study/tree/main/Programmers/SQL%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/JOIN)
