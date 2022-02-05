@@ -15,3 +15,5 @@
 ### [IS NULL](https://github.com/lDooh/Coding-Test-Study/tree/main/Programmers/SQL%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/IS%20NULL)
 
 ### [JOIN](https://github.com/lDooh/Coding-Test-Study/tree/main/Programmers/SQL%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/JOIN)
+
+### [String, Date](https://github.com/lDooh/Coding-Test-Study/tree/main/Programmers/SQL%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/String%2C%20Date)
